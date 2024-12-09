@@ -103,6 +103,20 @@ const sections = {
         priority: 3,
         link: "https://es.aliexpress.com/item/1005005948635620.html",
         image: "https://ae-pic-a1.aliexpress-media.com/kf/S1bbab1b2700e4dc18bc870793e868350u/Zapatos-Deportivos-informales-para-hombre-zapatillas-peque-as-de-moda-c-modos-Tenis-de-Skate-de.jpg_.webp"
+      },
+      {
+        name: "Recetario",
+        price: "17",
+        priority: 4,
+        link: "https://www.amazon.es/1000-recetas-oro-Planeta-Cocina/dp/8408224786",
+        image: "https://m.media-amazon.com/images/I/81Q-WYOUsmS._SL1500_.jpg"
+      },
+      {
+        name: "Altavoz",
+        price: "20.33",
+        priority: 4,
+        link: "https://www.amazon.es/gp/product/B0995LWZFQ/ref=ox_sc_act_title_1?smid=A6T89FGPU3U0Q&psc=1",
+        image: "https://m.media-amazon.com/images/I/81UA5ylMB0S._AC_SL1500_.jpg"
       }
     ]
   };
